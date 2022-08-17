@@ -1,2 +1,3 @@
-DOMAIN-SUFFIX sharemouse.com
-DOMAIN-SUFFIX serif.com
+payload:
+  - DOMAIN-SUFFIX sharemouse.com
+  - DOMAIN-SUFFIX serif.com

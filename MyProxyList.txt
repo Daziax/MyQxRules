@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX sharemouse.com
+DOMAIN-SUFFIX serif.com

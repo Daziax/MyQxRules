@@ -1,1 +1,2 @@
-- DOMAIN-SUFFIX,cm.steampowered.com
+payload:
+  - DOMAIN-SUFFIX,cm.steampowered.com

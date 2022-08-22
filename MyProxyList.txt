@@ -1,3 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,sharemouse.com
   - DOMAIN-SUFFIX,serif.com
+  - DOMAIN-SUFFIX,oculuscdn.com
+  - DOMAIN-SUFFIX,oculus.com

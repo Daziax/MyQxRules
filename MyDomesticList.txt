@@ -1,5 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,cm.steampowered.com
-  - DOMAIN-SUFFIX,xn--fs5a06n.com
-  - DOMAIN-SUFFIX,qi4k.com
-  - DOMAIN-SUFFIX,xn--055azc.com
+  - DOMAIN-SUFFIX,lyricsify.com

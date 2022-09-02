@@ -1,5 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,lyricsify.com
+  - DOMAIN-SUFFIX,lyricsilo.com
+  - DOMAIN-SUFFIX,gecimi.com
   #steam
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net

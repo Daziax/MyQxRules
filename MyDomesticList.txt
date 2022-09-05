@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,lyricsify.com
   - DOMAIN-SUFFIX,lyricsilo.com
   - DOMAIN-SUFFIX,gecimi.com
+  - DOMAIN-SUFFIX,omofun.tv
   #steam
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net

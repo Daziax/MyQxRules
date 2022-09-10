@@ -3,6 +3,12 @@ payload:
   - DOMAIN-SUFFIX,lyricsilo.com
   - DOMAIN-SUFFIX,gecimi.com
   - DOMAIN-SUFFIX,omofun.tv
+  - DOMAIN-SUFFIX,srv.nintendo.net
+  - DOMAIN-SUFFIX,baas.nintendo.com
+  - DOMAIN-SUFFIX,dragons.nintendo.net
+  - DOMAIN-SUFFIX,cdn.nintendo.net
+  - DOMAIN-SUFFIX,d4c.nintendo.net
+  - DOMAIN-SUFFIX,op2.nintendo.net
   #steam
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net

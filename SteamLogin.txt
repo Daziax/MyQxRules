@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN,api.steampowered.com
   - IP-CIDR,103.10.124.0/24
   - IP-CIDR,103.10.125.0/24

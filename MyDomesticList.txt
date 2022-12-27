@@ -12,6 +12,8 @@ payload:
   #
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,bugsnag.com
+  #unity
+  - DOMAIN-SUFFIX,download.unity3d.com
   #steam
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net

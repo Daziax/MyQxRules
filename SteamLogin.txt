@@ -2,7 +2,7 @@ payload:
   #- DOMAIN-SUFFIX,cm.steampowered.com
   #- DOMAIN-SUFFIX,steamserver.net
   #- DOMAIN-SUFFIX,akamaihd.net
-  #- DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,api.steampowered.com
   #- DOMAIN-SUFFIX,test.steampowered.com
 #steam

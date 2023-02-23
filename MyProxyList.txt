@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,serif.com
   - DOMAIN-SUFFIX,oculuscdn.com
   - DOMAIN-SUFFIX,oculus.com
+  - DOMAIN-SUFFIX,steampowered.com
